@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carminaetoratio00ommegoog_0190.png"; bbox 0 0 2648 4926; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 351 1683 852 1759">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 351 1683 852 1759">
+     <span class='ocr_line' id='line_1_1' title="bbox 351 1683 852 1759; baseline 0.006 -3"><span class='ocrx_word' id='word_1_1' title='bbox 351 1683 852 1759; x_wconf 79' lang='lat' dir='ltr'><strong>cARMJN&#39;A</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 114 1999 1097 2148">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 114 1999 1097 2148">
+     <span class='ocr_line' id='line_1_2' title="bbox 114 1999 1097 2148; baseline 0 -33"><span class='ocrx_word' id='word_1_2' title='bbox 114 2001 456 2148; x_wconf 68' lang='grc' dir='ltr'><strong>ιΒΙΟΗΕΟ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 508 2042 628 2120; x_wconf 66' lang='lat' dir='ltr'><strong>vm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 678 1999 1097 2133; x_wconf 83' lang='lat' dir='ltr'>OMMEREN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 452 2381 763 2461">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 452 2381 763 2461">
+     <span class='ocr_line' id='line_1_3' title="bbox 452 2381 763 2461; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 452 2381 763 2461; x_wconf 81' lang='lat' dir='ltr'>DICATA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1328 4926">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1328 4926">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1328 4926; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1328 4926; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
